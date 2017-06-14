@@ -4,4 +4,4 @@
 
 ## Description
 
-This simple user script adds a reply button to GitHub comments. It is originally derived from @jerone's [UserScripts](https://github.com/jerone/UserScripts/Github_Reply_Comments) project.
+This simple user script adds a reply button to GitHub comments. It is originally derived from [@jerone](https://github.com/jerone)'s [UserScripts](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments) project.
