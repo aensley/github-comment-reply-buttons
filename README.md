@@ -5,3 +5,9 @@
 ## Description
 
 This simple user script adds a reply button to GitHub comments. It is originally derived from [@jerone](https://github.com/jerone)'s [UserScripts](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments) project.
+
+When clicked, the reply button will pre-fill the comment box with:
+
+```Markdown
+_Replying to https://github.com/orginization/repo/issues/issue_number#comment-id by @author:_
+```
